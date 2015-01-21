@@ -1,4 +1,4 @@
-/media/swdrt/E/linux/ijkplayer/ijkplayer-android-master/android/ijkmediaplayer/obj/local/armeabi-v7a/objs/cpufeatures/cpu-features.o: \
+/home/swdrt/ijkplayer/ijkplayer-android-master/android/ijkmediaplayer/obj/local/armeabi-v7a/objs/cpufeatures/cpu-features.o: \
  /home/swdrt/adt-bundle/ndk/sources/android/cpufeatures/cpu-features.c \
  /home/swdrt/adt-bundle/ndk/sources/android/cpufeatures/cpu-features.h \
  /home/swdrt/adt-bundle/ndk/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
